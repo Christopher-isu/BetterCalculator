@@ -1,7 +1,7 @@
 ﻿'ChristopherZ
 'Spring 2025
 'RCET2265
-'Operators Example
+'Better Calculator
 'https://github.com/Christopher-isu/BetterCalculator.git
 
 Option Explicit On 'forces all variables to be declared
