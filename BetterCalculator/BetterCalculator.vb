@@ -17,7 +17,7 @@ Module BetterCalculator
             input = Console.ReadLine()
 
             If input.ToUpper() = "Q" Then
-                Console.WriteLine("You entered " & number)
+                Console.WriteLine("You entered " & input)
                 Console.WriteLine("Have a nice day")
                 Environment.Exit(0)
             End If
