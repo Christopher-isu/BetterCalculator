@@ -5,6 +5,7 @@
 'https://github.com/Christopher-isu/BetterCalculator.git
 
 Option Explicit On 'forces all variables to be declared
+Option Strict On   'forces all variables to be declared of the correct data type
 
 Module BetterCalculator
 
@@ -16,7 +17,7 @@ Module BetterCalculator
             input = Console.ReadLine()
 
             If input.ToUpper() = "Q" Then
-                Console.WriteLine("You entered " & number)
+                Console.WriteLine("You entered " & input)
                 Console.WriteLine("Have a nice day")
                 Environment.Exit(0)
             End If
