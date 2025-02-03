@@ -5,7 +5,7 @@
 'https://github.com/Christopher-isu/BetterCalculator.git
 
 Option Explicit On 'forces all variables to be declared
-Option Strict On   'forces all variables to be declared of the correct data type
+Option Strict On   'forces all variables to be declared of the correct data type 
 
 Module BetterCalculator
 
